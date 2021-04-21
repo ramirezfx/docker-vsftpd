@@ -12,7 +12,7 @@ Navigate To The Working Directory:
 
 `cd docker-vsftpd`
 
-Edit the file .env with your favourite editor and change the variables for FTP_USERNAME and FTP_PASSWORD
+Edit the file .env with your favourite editor and change the variables for FTP_USERNAME, FTP_PASSWORD and MAPPED_FOLDER
 
 Start The Container:
 
